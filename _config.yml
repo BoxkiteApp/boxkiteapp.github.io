@@ -6,8 +6,9 @@ description: A friendly app for your buildkite builds
 logo: site-logo.png
 search: true
 #url: http://localhost:4000
-url: http://boxkiteapp.githubpages.io
-url: http://boxkiteapp.com
+url: http://www.boxkiteapp.com
+#url: http://boxkiteapp.githubpages.io
+#url: http://boxkiteapp.com
 
 # Jekyll configuration
 
