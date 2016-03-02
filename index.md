@@ -9,7 +9,7 @@ image:
 
 ## Your [Buildkite](https://buildkite.com) builds in your hand.
 
-Boxkite exists to help you keep ontop of your CI/CD pipeline and make sure everything is behaving as it should.
+Boxkite exists to help you keep on top of your CI/CD pipeline and make sure everything is behaving as it should.
 
 There is nothing better than knowing your builds are passing each time, and nothing worse than when they go wrong. Boxkite gives you the ability to know exactly what broke in your pipeline and why by showing all of the information in the app.
 
