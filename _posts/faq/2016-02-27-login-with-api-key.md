@@ -3,7 +3,7 @@ layout: post
 title: Login With API Key
 modified:
 categories: faq
-excerpt: "What are the scops required for the Buildkite API key"
+excerpt: "What are the scopes required for the Buildkite API key"
 tags: []
 image:
   feature:
@@ -11,7 +11,7 @@ date: 2016-02-27T12:18:17+11:00
 author: matt_delves
 ---
 
-At present to use Boxkite you need to provide a Buildkite api key that is configured with the following scops:
+At present to use Boxkite you need to provide a Buildkite api key that is configured with the following scopes:
 
 * Read Organizations
 * Read Agents
