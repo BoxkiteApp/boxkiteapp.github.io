@@ -17,6 +17,16 @@ Boxkite is an iOS app that provides you with everything you need to know about y
 
 Boxkite wouldn't exist without the help from the wonderful people who run [Buildkite](https://buildkite.com).
 
+### Features
+
+* See all the builds you are responsible for in My Builds
+* See all your pipelines in one place
+* Get push notifications for your builds
+* See the latest builds on the Today widget.
+* Use the watch app to see the state of your pipelines
+
+### Get the app
+
 <span>
   <a href="https://geo.itunes.apple.com/us/app/boxkite/id942258740?mt=8" style="display:inline-block;overflow:hidden;background:url(images/appstore.svg) no-repeat;width:165px;height:40px;"></a>
 </span>
