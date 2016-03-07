@@ -17,7 +17,7 @@ At present to use Boxkite you need to provide a Buildkite api key that is config
 * Read Agents
 * Read User
 * Read Builds
-* Write Builds
+* Modify Builds
 * Read Build Logs
 * Read Pipelines
 
